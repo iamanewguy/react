@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "JENNIFER ANISTON",
+        "tel": "02728181112",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "ANGELINA JOLIE",
+        "tel": "04395848533",
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name": "ANNE HATHAWAY",
+        "tel": "03434354554",
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "DAKOTA JOHNSON",
+        "tel": "08783434342",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "SCARLETT JOHANSSON",
+        "tel": "0328372832",
+        "permission": 2
+    }
+]
